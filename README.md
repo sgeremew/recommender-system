@@ -1,5 +1,5 @@
 # Content-Based Recommender System
-Samuel Geremew and Kedir Brian
+Samuel Geremew and Kedir Birhan
 
 ## Overview
 The goal is to implement a **movie recommender system** that learns from a user's view history and movie ratings to predict their rating for an unseen movie. The provided dataset includes users, movies, actors, directors, ratings, genres, and tags. We implemented a content-based, filtering approach in Python that uses keywords to determine movie similarity and predict ratings based on the user.
